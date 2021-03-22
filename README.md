@@ -1,2 +1,2 @@
 # BookStore
-MERN stack App
+MERN stack App.
